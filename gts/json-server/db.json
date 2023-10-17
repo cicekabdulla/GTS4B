@@ -1,0 +1,140 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "Низкая стоимость абонентской платы",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt."
+        },
+        {
+            "id": 2,
+            "title": "Поддержка 32 популярных языков",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt."
+        },
+        {
+            "id": 3,
+            "title": "Техподдержка 24/7",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt. "
+        },
+        {
+            "id": 4,
+            "title": "Поддержка свыше 1000 устройств",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt."
+        },
+        {
+            "id": 5,
+            "title": "Учет расхода топлива",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt. "
+        },
+        {
+            "id": 6,
+            "title": "White Label",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officiis natus voluptas laborum voluptatibus fuga atque cum, quasi maiores at laudantium sint rerum libero ea magni architecto magnam vitae deserunt."
+        }
+    ],
+    "property": [
+        {
+            "id": 1,
+            "title": "Глонасс/GPS-мониторинг",
+            "description": "Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха."
+        },
+        {
+            "id": 2,
+            "title": "Точки интереса и геозоны",
+            "description": "Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха."
+        },
+        {
+            "id": 3,
+            "title": "Гибкая система отчетов",
+            "description": "Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха."
+        },
+        {
+            "id": 4,
+            "title": "Просмотры трека",
+            "description": "Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха."
+        },
+        {
+            "id": 5,
+            "title": "Учет расхода топлива",
+            "description": " Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха. "
+        },
+        {
+            "id": 6,
+            "title": "Мобильные приложения под Android, iOS",
+            "description": " Отслеживайте местоположение объектов с высокой точностью. Отдаленные районы или высотная застройка не помеха. "
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "title": "Ура! Теперь в нашей системе доступна система уведомлений с помощью мессенджеров WhatsApp и Telegram",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle1.png"
+        },
+        {
+            "id": 2,
+            "title": "Мы достигли 10 000 активных пользователей!",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle2.png"
+        },
+        {
+            "id": 3,
+            "title": "Мы достигли соглашения о партнерстве с представителями страны Камерун! ",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle3.png"
+        },
+        {
+            "id": 1,
+            "title": "Ура! Теперь в нашей системе доступна система уведомлений с помощью мессенджеров WhatsApp и Telegram",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle1.png"
+        },
+        {
+            "id": 2,
+            "title": "Мы достигли 10 000 активных пользователей!",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle2.png"
+        },
+        {
+            "id": 3,
+            "title": "Мы достигли соглашения о партнерстве с представителями страны Камерун! ",
+            "header": "Новости и обновления",
+            "date": "1 Февраль, 2021",
+            "img": "Rectangle3.png"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "name": "Александ Маркелов",
+            "job": "CEO",
+            "content": "Прежде всего мы выбрали GTS4B из-за количества поддержанного оборудования. Мы предложили систему нашим клиентам и сказали, что им не придется менять свои устройства.",
+            "img": "images/Rectangle1.png"
+        },
+        {
+            "id": 2,
+            "name": "Александ Маркелов",
+            "job": "CEO",
+            "content": "Прежде всего мы выбрали GTS4B из-за количества поддержанного оборудования. Мы предложили систему нашим клиентам и сказали, что им не придется менять свои устройства.",
+            "img": "images/image54.png"
+        },
+        {
+            "id": 3,
+            "name": "Александ Маркелов",
+            "job": "CEO",
+            "content": "Прежде всего мы выбрали GTS4B из-за количества поддержанного оборудования. Мы предложили систему нашим клиентам и сказали, что им не придется менять свои устройства.",
+            "img": "images/Rectangle2.png"
+        },
+        {
+            "id": 4,
+            "name": "Александ Маркелов",
+            "job": "CEO",
+            "content": "Прежде всего мы выбрали GTS4B из-за количества поддержанного оборудования. Мы предложили систему нашим клиентам и сказали, что им не придется менять свои устройства.",
+            "img": "images/image54.png"
+        }
+    ]
+}

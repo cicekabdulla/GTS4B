@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // outline: 3px solid green;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.section {
+  margin-top: 7.5rem;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: $text-color-dark;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 3.5rem;
+
+  @media(min-width:360px) {
+    font-size: 1.5rem;
+  }
+
+  @media(min-width:768px) {
+    margin-bottom: 5rem;
+  }
+
+  @media(min-width:992px) {
+    font-size: 1.875rem;
+  }
+
+}
+
+
+.button-next,
+.button-prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border-radius: 3px;
+  color: $first-color;
+  font-size: 25px;
+}
+
+.button-next {
+  right: 0px;
+}
+
+.button-prev {
+  left: 0px;
+  display: none;
+}
+
+button,
+input {
+  border: none;
+  outline: none;
+}
+
+.main-btn {
+  display: inline-block;
+  padding: 0.875rem 2.375rem;
+  border-radius: 0.5rem;
+  color: $text-color-white;
+  background-color: $first-color;
+  font-size: 15px;
+
+  @media (min-width: 1200px) {
+    padding: 0.875rem 3.375rem;
+    font-size: 16px;
+  }
+}
